@@ -1,6 +1,6 @@
 Video Game Development 
 
-University of Kent - Etha Williams 
+University of Kent - Ethan Williams 
 
 Description: A game where the goal is to reach 30 points without dying. There are 5 collectibles/powerups in the game
 
